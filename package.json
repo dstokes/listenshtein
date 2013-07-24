@@ -1,0 +1,30 @@
+{
+  "name": "listenshtein",
+  "version": "0.0.0",
+  "description": "Filter a list based on Levenshtein distances",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "fast-levenshtein": "~1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/listenshtein.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dstokes/listenshtein.git"
+  },
+  "keywords": [
+    "levenshtein",
+    "list",
+    "filter"
+  ],
+  "author": "Drew Stokes",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/dstokes/listenshtein/issues"
+  }
+}

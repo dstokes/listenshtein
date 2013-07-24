@@ -1,7 +1,7 @@
 listenshtein
 ======
 
-Filter a list based on Listenshtein distances
+Filter a list based on Levenshtein distances
 
 [![Build Status](https://travis-ci.org/dstokes/listenshtein.png)](https://travis-ci.org/dstokes/listenshtein)  
 
