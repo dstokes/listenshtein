@@ -4,6 +4,7 @@ listenshtein
 Filter a list based on Levenshtein distances
 
 [![Build Status](https://travis-ci.org/dstokes/listenshtein.png)](https://travis-ci.org/dstokes/listenshtein)  
+[![NPM](https://nodei.co/npm/listenshtein.png?downloads=true)](https://nodei.co/npm/listenshtein/)
 
 Example
 =======
